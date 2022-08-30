@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 
-import '../../util/log_util.dart';
+import '../../utils/log_util.dart';
 
 /// Description:
 /// Author: xingguo.lei@abite.com
